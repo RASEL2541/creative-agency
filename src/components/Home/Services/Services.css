@@ -1,0 +1,6 @@
+.extraDesign {
+  width: 75%;
+}
+.hoverDesign:hover {
+  transform: translate(2);
+}

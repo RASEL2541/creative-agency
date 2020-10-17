@@ -1,0 +1,9 @@
+.inputStyle input {
+  border: none;
+  padding: 10px;
+}
+
+.inputStyle textarea {
+  border: none;
+  padding: 10px;
+}
